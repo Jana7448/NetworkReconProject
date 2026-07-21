@@ -1,0 +1,7 @@
+Port Scanner Report
+========================
+Target : google.com
+
+Open Ports
+80
+443

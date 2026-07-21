@@ -1,0 +1,4 @@
+DNS Lookup Report
+========================
+Domain : google.com
+IP Address : 142.250.206.78

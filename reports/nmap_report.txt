@@ -1,0 +1,9 @@
+Nmap Scan Report
+========================
+Target: google.com
+
+Host: 142.250.206.78
+
+Protocol: tcp
+Port 80: OPEN
+Port 443: OPEN

@@ -1,0 +1,15 @@
+Host Discovery Report
+=========================
+Target : ubuntu.com
+
+PING ubuntu.com (185.125.190.20) 56(84) bytes of data.
+64 bytes from website-content-cache-1.ps5.canonical.com (185.125.190.20): icmp_seq=1 ttl=128 time=307 ms
+64 bytes from website-content-cache-1.ps5.canonical.com (185.125.190.20): icmp_seq=2 ttl=128 time=227 ms
+64 bytes from website-content-cache-1.ps5.canonical.com (185.125.190.20): icmp_seq=3 ttl=128 time=352 ms
+64 bytes from website-content-cache-1.ps5.canonical.com (185.125.190.20): icmp_seq=4 ttl=128 time=274 ms
+
+--- ubuntu.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3003ms
+rtt min/avg/max/mdev = 227.188/290.033/352.448/45.836 ms
+
+Host is UP
