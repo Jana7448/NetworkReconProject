@@ -163,7 +163,7 @@ This project helped in understanding:
 
 ## Author
 
-**Dharanish**
+**Jana M**
 
 Cybersecurity Internship Project
 
